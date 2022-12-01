@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">mathQuiz</string>
+    <string name="str_quiz">수학식의 정답은?</string>
+    <string name="next_button">Next</string>
+    <string name="prev_button">Previous</string>
+    <string name="right_ans_msg">정답입니다.</string>
+    <string name="wrong_ans_msg">오답입니다.</string>
+</resources>
